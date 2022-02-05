@@ -55,7 +55,7 @@ This portfolio is a compilation of  all my work  which includes Data Science pro
 - [Data Analysis](#Data_Analysis)
 - [SQl projects](#SQL_projects)
 - [Data Visualization](#Recommendation_systems)
-    - [Microsoft Power Bi](#Microsoft Power Bi)
+    - [Microsoft Power Bi](#Microsoft_Power_Bi)
     - [Tableaui](#Tableau)
 - [Cloud Projects](#Cloud_Projects)
 
@@ -90,7 +90,7 @@ This notebook is also deployed in Heroko , so you can use the app using this URL
 
 ## Data_Visualization
 
-### Microsoft Power Bi
+### Microsoft_Power_Bi
 
 ### Tableau
 
