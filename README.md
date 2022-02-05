@@ -54,7 +54,7 @@ This portfolio is a compilation of  all my work  which includes Data Science pro
     - [Similar Movie Recommendation System.](#Similar_Movie_Recommendation_System)
 - [Data Analysis](#Data_Analysis)
 - [SQl projects](#SQL_projects)
-- [Data Visualization](#Recommendation_systems)
+- [Data Visualization](#Data_Visualization)
     - [Microsoft Power Bi](#Microsoft_Power_Bi)
     - [Tableaui](#Tableau)
 - [Cloud Projects](#Cloud_Projects)
