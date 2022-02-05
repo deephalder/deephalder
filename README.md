@@ -3,7 +3,7 @@
 
 ## About_Me
 
- Hi I am Subhradip Halder. Thanks for visiting my page. 
+ Hi I am Subhradip Halder. You can call me Halder or just Deep.  Thanks for visiting my page. 
 
 NOW
 
