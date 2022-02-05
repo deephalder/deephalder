@@ -20,7 +20,6 @@ BIO
     💅 Designed and Devloped-  www.zealousi.com - POD ( Print on Demand Ecommerce store in India.)
     🌱 Currently Learning - GCP(Google Cloud) ML.
     💬 Ping me about Data Science, Data Analytics, Machine Learning NFT, Creative Design.
-    📫 Reach me: https://www.twitter.com/Halder_Subh , https://www.linkedin.com/in/deephalder/
     📫 Email Me - subhradipmsm@gmail.com
     ⚡️ Fun fact: I'm a huge fan of Elon Musk,generative computer art.
 
