@@ -36,8 +36,6 @@ PAST
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Halder on Twitter"/>](https://www.twitter.com/Halder_Subh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Halder on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
-<img src="[https://github-readme-linkedin-iota.vercel.app/]/[/experience]?username=[deephalder]" />
-
 # Portfolio -  Subhradip Halder
 
 This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
