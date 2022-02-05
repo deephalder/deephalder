@@ -27,21 +27,20 @@ BIO
 PAST
 
     📫 Fintech Salesforce Consultant - Deloitte Consulting USA with 9 years of exp.
+    
+ 
+ ###  📫 How to reach me : 
+ 
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/deephalder/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Raymo111 on Twitter"/>](https://www.twitter.com/Halder_Sub)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
 
 # Portfolio -  Subhradip Halder
 
 This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
-
-
-## 🔗 Links
-[![Data Science/Analytics portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deephalder.github.io/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deephalder/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Halder_Subh)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deephalder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## Table of Contents
 
