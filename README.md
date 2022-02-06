@@ -36,9 +36,13 @@ PAST
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Halder on Twitter"/>](https://www.twitter.com/Halder_Subh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Halder on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
+Link to my github account to view all the code for the projects mentioned below - [Github Portfolio ](https://github.com/deephalder/Data-Science-Portfolio) 
+
+
 # Portfolio -  Subhradip Halder
 
 This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
+
 
 ## Table of Contents
 
@@ -72,7 +76,7 @@ This portfolio is a compilation of  all my work  which includes Data Science pro
 
 ### Similar Movie Recommendation System.
 
-[Github](https://github.com/deephalder/Personal-Code/blob/main/Kaggle/Movie_recommended_system/movie-recommendation-system-content-based-easy.ipynb) 
+[Github](https://github.com/deephalder/Data-Science-Portfolio/blob/main/Recommendation%20Systems/Movie_Recommendation_System/movie-recommendation-system-content-based-easy.ipynb) 
 
 [Live app URL link ](https://similar-movies.herokuapp.com)
 
