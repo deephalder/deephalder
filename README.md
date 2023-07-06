@@ -7,8 +7,8 @@
 
 NOW
 
-    🔭 I’m currently working as a Data Science/ Data Analysis freelancer.
-    🏢 I'm currently staying in Kolkata,India.
+    🔭 I’m currently working as a Salesforce nCIno Manager.
+    🏢 I'm currently staying in Toronto,Canada
     ⚡️ I am the father  of  www.zealousi.com - POD Ecommerce store.
 
 
